@@ -37,6 +37,7 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5'
   "GLM": "deepseek-ai/deepseek-v4-pro",
+  "GLM": "z-ai/glm-5.1",
 };
 
 // Root endpoint
